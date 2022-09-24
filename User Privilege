@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T09:46:21.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.2" etag="HCSyb4LAg9sXECkQdTMi" type="github"><diagram id="zME2NCflLiKjlZJUNvCo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-24T11:11:57.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="N4TWivbN6GmwZYzVLrlw" version="20.3.2" type="github">
+  <diagram id="zME2NCflLiKjlZJUNvCo" name="Page-1">
+    <mxGraphModel dx="830" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-1" value="Super Admin&lt;br&gt;(Team Inti)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-2" value="Admin&lt;br&gt;(Operator/TU)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-3" value="Tata Usaha&lt;br&gt;(Perangkat TU)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-4" value="Guru" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-5" value="Murid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-6" value="Wali Murid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-7" value="- Menambah Sekolah Baru&lt;br&gt;- Memonitoring Semua Sekolah" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="10" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LxzDTbnnEY3y_wIP_zaZ-1" target="LxzDTbnnEY3y_wIP_zaZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-9" value="- Menambah Guru Baru&lt;br&gt;- Menambah Mata Pelajaran" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxzDTbnnEY3y_wIP_zaZ-2" target="LxzDTbnnEY3y_wIP_zaZ-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-11" value="Penerimaan SIswa Baru secara Online" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-12" value="Input semua data yang dibutuhkan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-13" value="SUBMIT &amp;gt; Masuk Database &amp;gt; penerimaan_siswa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-14" value="Validasi Penerimaan&lt;br&gt;(TU)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxzDTbnnEY3y_wIP_zaZ-11" target="LxzDTbnnEY3y_wIP_zaZ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="640" as="sourcePoint" />
+            <mxPoint x="370" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxzDTbnnEY3y_wIP_zaZ-12" target="LxzDTbnnEY3y_wIP_zaZ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="600" as="sourcePoint" />
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxzDTbnnEY3y_wIP_zaZ-13" target="LxzDTbnnEY3y_wIP_zaZ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="sourcePoint" />
+            <mxPoint x="410" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxzDTbnnEY3y_wIP_zaZ-14" target="LxzDTbnnEY3y_wIP_zaZ-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="620" as="sourcePoint" />
+            <mxPoint x="420" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-20" value="ditolak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LxzDTbnnEY3y_wIP_zaZ-18">
+          <mxGeometry x="-0.3111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-19" value="GAGAL MASUK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-21" value="Buat 2 akun&lt;br&gt;- wali murid (NIK)&lt;br&gt;- murid (NISN/NIS)&lt;br&gt;&lt;br&gt;PASS : 12345678" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="675" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxzDTbnnEY3y_wIP_zaZ-14" target="LxzDTbnnEY3y_wIP_zaZ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="710" as="sourcePoint" />
+            <mxPoint x="360" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxzDTbnnEY3y_wIP_zaZ-23" value="diterima" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LxzDTbnnEY3y_wIP_zaZ-22">
+          <mxGeometry x="-0.3074" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
