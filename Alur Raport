@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2022-09-24T13:45:46.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Xbg8WwLtX7KLrs-TS2li" version="20.3.6" type="github">
+  <diagram id="ogBh9d3os5TgCxEUtQ_f" name="Page-1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-1" value="Mendapatkan Nilai dari proses belajar dan ujian murid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-2" value="Guru Mapel menginputkan nilai2 dari setiap siswa ke setiap mapel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-4" value="DATABASE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="325" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VHghGxw9mrFe-3KsMOfL-1" target="VHghGxw9mrFe-3KsMOfL-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="240" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-26" value="penilaian" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VHghGxw9mrFe-3KsMOfL-5">
+          <mxGeometry x="0.375" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHghGxw9mrFe-3KsMOfL-4" target="VHghGxw9mrFe-3KsMOfL-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-23" value="rekap" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VHghGxw9mrFe-3KsMOfL-6">
+          <mxGeometry x="-0.2651" y="4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-7" value="Raport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-9" value="Nilai Absen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-12" value="Murid" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHghGxw9mrFe-3KsMOfL-12" target="VHghGxw9mrFe-3KsMOfL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-28" value="sistem belajar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VHghGxw9mrFe-3KsMOfL-13">
+          <mxGeometry x="-0.2322" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHghGxw9mrFe-3KsMOfL-12" target="VHghGxw9mrFe-3KsMOfL-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-27" value="aktivitas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VHghGxw9mrFe-3KsMOfL-14">
+          <mxGeometry x="0.2553" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHghGxw9mrFe-3KsMOfL-9" target="VHghGxw9mrFe-3KsMOfL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="340" as="sourcePoint" />
+            <mxPoint x="420" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-25" value="input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VHghGxw9mrFe-3KsMOfL-17">
+          <mxGeometry x="0.3429" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHghGxw9mrFe-3KsMOfL-2" target="VHghGxw9mrFe-3KsMOfL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="420" as="sourcePoint" />
+            <mxPoint x="350.44237545940587" y="361.5740886950498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHghGxw9mrFe-3KsMOfL-24" value="input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VHghGxw9mrFe-3KsMOfL-21">
+          <mxGeometry x="-0.296" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
